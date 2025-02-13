@@ -4,7 +4,7 @@ Generating pEA/sumEA matrix for any ML algorithm
 
 
 ## Installation
-1. git clone https://github.com/LichtargeLab/BigPipeline.git
+1. git clone https://github.com/maryamsamiei/pEA_Matrix_Generation.git
 2. conda env create -f ./BigPipeline/environment.yml
 3. conda activate pyBigPipeline
 
